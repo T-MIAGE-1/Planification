@@ -1,0 +1,16 @@
+props
+a b c x y z
+actions
+#0
+x
+y
+#2
+a y
+z
+#4
+b
+a
+debut
+x b c
+fin
+a z

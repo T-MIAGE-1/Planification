@@ -1,0 +1,8 @@
+
+
+executable: main.c
+	gcc -c main.c -o <file>
+
+Bien mettre TOUT LES FICHIERS DU PROJET DANS UN MEME DOSSIERS LORS DE L'EXECUTION !!
+	
+				
